@@ -1,0 +1,5 @@
+{
+  "name": "Vizualizator Recepata",
+  "description": "Unesite recept za jelo ili koktel, a Gemini će ga oživjeti detaljnom slikom. AI postavlja pitanja kako bi dobio sve potrebne detalje za savršenu vizualizaciju.",
+  "requestFramePermissions": []
+}
